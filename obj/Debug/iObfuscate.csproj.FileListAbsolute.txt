@@ -1,0 +1,11 @@
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\bin\Debug\iObfuscate.exe.config
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\bin\Debug\iObfuscate.exe
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\bin\Debug\iObfuscate.pdb
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.csproj.AssemblyReference.cache
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.csproj.SuggestedBindingRedirects.cache
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.Form1.resources
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.Properties.Resources.resources
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.csproj.GenerateResource.cache
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.csproj.CoreCompileInputs.cache
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.exe
+C:\Users\moodk\OneDrive\Desktop\iObfuscate-BatchObfuscator\beta-release\iObfuscate\iObfuscate\obj\Debug\iObfuscate.pdb
